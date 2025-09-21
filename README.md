@@ -7,8 +7,8 @@ Jupyter Notebooks:
 
   Data_Retrieval_Sampling_API.ipynb 
   - Converting Reddit Data from .zst to .csv, sampling comments and labeling with perspectiveAPI
-  - No files Added (too large, up to 50gb)), only for inspection
-  - Input: Raw Reddit Dumps from 2009 until 2024 (.zst format)
+  - No files Added (too large, up to 50gb)), need own API key --> only for inspection
+  - Input: Raw Reddit Dumps from 2009 until 2024 (.zst format) (can be downloaded here: https://academictorrents.com/details/1614740ac8c94505e4ecb9d88be8bed7b6afddd4)
   - Output: Sampled CSVs for each Subreddit with Scores
 
   EDA_Descriptives_Inferential_stats.ipynb
@@ -25,5 +25,6 @@ Data:
   - Words used to calculate Moral Outrage score
 
   
+
 
 
